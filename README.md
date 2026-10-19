@@ -1,4 +1,5 @@
 # TechFlow Solutions Website
+[![Deploy to GitHub Pages](https://github.com/Drsp8106/Assignment2-Derek-P/actions/workflows/deploy.yml/badge.svg)](https://github.com/Drsp8106/Assignment2-Derek-P/actions/workflows/deploy.yml)
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
